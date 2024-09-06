@@ -1,3 +1,3 @@
-# QA_RAG
-Using RAG to generate a dataset based on pdf
-Through the token confidence, we modified the part that might cause hallucination.
+# QA Dataset Generate System
+Based on the original PDF files, a fine-tunable dataset is generated to reduce labor costs and avoid human errors. 
+The process involves text processing, Retrieval-Augmented Generation (RAG), prompt engineering, and techniques to minimize hallucination.
